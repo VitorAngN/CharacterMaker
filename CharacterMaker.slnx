@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CharacterMaker.Catalog/CharacterMaker.Catalog.csproj" />
+    <Project Path="src/CharacterMaker.Domain/CharacterMaker.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CharacterMaker.Domain.Tests/CharacterMaker.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
